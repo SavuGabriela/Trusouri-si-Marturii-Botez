@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Trusou Roz Pudrat",
+    "description": "Dantelă fină, prosop brodat, păturică și lumânare cu flori de bumbac.",
+    "price": 150,
+    "image": "https://images.unsplash.com/photo-1611415511930-94d292f4607f"
+  },
+  {
+    "id": 2,
+    "name": "Trusou Cer Albastru",
+    "description": "Lumânare simplă, prosop cu motive tradiționale, cutie din lemn.",
+    "price": 180,
+    "image": "https://images.unsplash.com/photo-1609840111739-898cf5147f6d"
+  }
+]
